@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'game.icons';
+	font-family: 'game-icons';
 src: url('./game-icons.woff2') format('woff2'),
 url('./game-icons.woff') format('woff');
 font-weight: regular;
