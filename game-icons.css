@@ -1,10 +1,8 @@
 @font-face {
 	font-family: 'game-icons';
-src: url('./game-icons.woff2') format('woff2'),
-url('./game-icons.woff') format('woff');
-font-weight: regular;
-font-style: normal;
-font-display: swap;
+src: url("./") format("embedded-opentype"),
+url("./game-icons.woff") format("woff"),
+url("./game-icons.ttf") format("truetype");
 }
 
 .game-icon {
